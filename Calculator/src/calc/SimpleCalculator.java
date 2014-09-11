@@ -1,5 +1,6 @@
 package calc;
 
+//SI543 Assignment 1 By Jing Zhang
 public class SimpleCalculator {
 
 	private double currentNumber;

@@ -1,3 +1,4 @@
+//SI543 Assignment 1 By Jing Zhang
 package calc;
 
 public class CalculatorMain {
@@ -28,7 +29,7 @@ public class CalculatorMain {
 		c.power(4);
 		c.divide(4);
 		System.out.println("Calculation 2 (complex) - Expected Value: 4.0, Calculated Value: " + c.getCurrentNumber() + "\n");
-		
+		System.out.println("My complex calculator implemented!");
 		
 		
 		// ~
